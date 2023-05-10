@@ -1,1 +1,1 @@
-# thakur-buspass
+# lucky-buspass
